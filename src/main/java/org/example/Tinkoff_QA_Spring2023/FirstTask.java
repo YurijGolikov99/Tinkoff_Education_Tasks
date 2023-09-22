@@ -23,10 +23,6 @@ public class FirstTask {
         String by = blackYelow.nextLine();
         if (by.length() != m.length()){
             System.out.println("Wrong length");
-//            if(){
-//
-//            }
-
         }
         else {
             System.out.println("The Best Logo");
