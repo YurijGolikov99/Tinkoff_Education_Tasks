@@ -2,7 +2,7 @@ package org.example.Tinkoff_QA_Autumn2023;
 
 import java.util.Scanner;
 
-public class SecondTask {
+public class SecondTaskSheriffHelper {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String s = scanner.next();

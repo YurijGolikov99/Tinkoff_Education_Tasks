@@ -1,6 +1,6 @@
 package org.example.Tinkoff_QA_Autumn2023;
 
-public class SixthTask {
+public class SixthTaskTeribleHouseWithGhoust {
 
 }
 
