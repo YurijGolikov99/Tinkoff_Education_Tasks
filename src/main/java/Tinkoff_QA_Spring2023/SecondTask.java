@@ -1,4 +1,4 @@
-package org.example.Tinkoff_QA_Spring2023;
+package Tinkoff_QA_Spring2023;
 import java.util.*;
 
 public class SecondTask {
