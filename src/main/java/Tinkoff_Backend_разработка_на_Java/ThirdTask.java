@@ -1,4 +1,4 @@
-package org.example.Backend_разработка_на_Java;
+package Tinkoff_Backend_разработка_на_Java;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package org.example.Tinkoff_Beckend_Spring2023;
+package Tinkoff_Beckend_Spring2023;
 
 import java.util.Arrays;
 import java.util.Scanner;

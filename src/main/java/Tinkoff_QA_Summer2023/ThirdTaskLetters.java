@@ -1,4 +1,4 @@
-package org.example.Tinkoff_QA_Summer2023;
+package Tinkoff_QA_Summer2023;
 
 import java.util.*;
 

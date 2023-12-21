@@ -1,4 +1,4 @@
-package org.example.Tinkoff_QA_Autumn2023;
+package Tinkoff_QA_Autumn2023;
 
 import java.util.Arrays;
 import java.util.Scanner;
