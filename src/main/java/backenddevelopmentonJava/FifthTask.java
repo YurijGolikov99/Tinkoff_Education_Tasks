@@ -1,4 +1,4 @@
-package Tinkoff_Backend_разработка_на_Java;
+package backenddevelopmentonJava;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -37,7 +37,7 @@ s 1 - > c 1
 s 1 - > c 2
 */
 
-public class Fifth_task {
+public class FifthTask {
     static class Point {
         int x, y;
 

@@ -1,4 +1,4 @@
-package Tinkoff_Backend_разработка_на_Java;
+package backenddevelopmentonJava;
 
 import java.util.HashMap;
 import java.util.Map;

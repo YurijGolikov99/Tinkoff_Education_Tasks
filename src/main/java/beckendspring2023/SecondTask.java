@@ -1,4 +1,4 @@
-package Tinkoff_Beckend_Spring2023;
+package beckendspring2023;
 
 import java.util.Scanner;
 

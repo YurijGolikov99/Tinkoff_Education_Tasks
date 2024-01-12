@@ -1,4 +1,4 @@
-package Tinkoff_QA_Autumn2023;
+package qaautumn2023;
 
 public class SixthTaskTeribleHouseWithGhoust {
 

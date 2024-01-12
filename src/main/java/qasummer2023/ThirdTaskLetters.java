@@ -1,4 +1,4 @@
-package Tinkoff_QA_Summer2023;
+package qasummer2023;
 
 import java.util.*;
 
