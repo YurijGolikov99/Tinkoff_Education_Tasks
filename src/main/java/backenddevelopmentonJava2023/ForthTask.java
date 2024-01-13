@@ -1,4 +1,4 @@
-package backenddevelopmentonJava;
+package backenddevelopmentonJava2023;
 import java.util.Arrays;
 import java.util.Scanner;
 
