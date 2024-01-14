@@ -2,6 +2,7 @@ package qasummer2023;
 
 import java.util.*;
 
+//zalupa with letters
 public class ThirdTaskLetters {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -32,4 +33,3 @@ public class ThirdTaskLetters {
         }
     }
 }
-// Third_task-zalupa with letters
