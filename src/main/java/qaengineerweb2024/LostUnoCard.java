@@ -20,6 +20,7 @@ import java.util.Scanner;
 вывод
 2
  */
+
 public class LostUnoCard {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
